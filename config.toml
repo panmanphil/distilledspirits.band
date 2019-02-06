@@ -1,0 +1,47 @@
+languageCode = "en-us"
+title = "Philip Nelson and Distilled Spirits"
+theme = "ananke"
+
+[params]
+  favicon = ""
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/panmanphil"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/pandb-bg.jpg"
+  recent_posts_number = 2
+  usepostimgfolder = true
+
+  # Nav links
+  
+
+  [[menu.main]]
+  name = "About"
+  url = "/pages/about"
+  weight = 2
+
+  [[menu.main]]
+  name = "Schedule"
+  url = "/pages/schedule"
+  weight = 3
+
+  [[menu.main]]
+  name = "Demos"
+  url = "/pages/demos"
+  weight = 3
+
+  [[menu.main]]
+  name = "House Concerts"
+  url = "/pages/house-concerts"
+  weight = 4
+
+  [[menu.main]]
+  name = "Song List"
+  url = "/pages/songlist"
+  weight = 5

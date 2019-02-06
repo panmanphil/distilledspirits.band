@@ -1,0 +1,21 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/airspace"]
+	path = themes/airspace
+	url = https://github.com/themefisher/airspace-hugo.git
+[submodule "themes/creative-portfolio"]
+	path = themes/creative-portfolio
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/hugo-hero"]
+	path = themes/hugo-hero
+	url = https://github.com/JugglerX/hugo-hero-theme.git
+[submodule "themes/navigator"]
+	path = themes/navigator
+	url = https://github.com/themefisher/navigator-hugo.git
+[submodule "themes/assembly"]
+	path = themes/assembly
+	url = https://github.com/salsysd/hugo-assembly.git
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
