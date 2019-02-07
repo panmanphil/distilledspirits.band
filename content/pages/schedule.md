@@ -1,8 +1,9 @@
----
-title: "Schedule"
-date: 2019-02-06T01:07:31-06:00
-draft: true
----
++++
+title = "Schedule"
+date = 2019-02-06T01:07:31-06:00
+draft = true
+featured_image = "/images/jackie_allen.jpg"
++++
 ### Here is everything going on for Distilled Spirits, Philip, and our house concerts
 
 1/11/2019 Distilled Spirits @ Chefusion 
@@ -12,6 +13,9 @@ draft: true
 3/16/2019 Distilled Spirits @ Chefusion
 
 4/20/2019 Distilled Spirits @ Chefusion
+
+
+<!--more--> 
 
 5/2/2019 Heidi Burson @ [Live at Philip and Barbara’s House]()
 
@@ -27,7 +31,6 @@ draft: true
 
 September 2019 TBD Daniel Champagne @ [Live at Philip and Barbara’s House]()
 
-<!--more--> 
 ---
 ### Past Dates
 

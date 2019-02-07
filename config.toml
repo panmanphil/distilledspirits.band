@@ -2,6 +2,8 @@ languageCode = "en-us"
 title = "Philip Nelson and Distilled Spirits"
 theme = "ananke"
 
+summaryLength = 5
+
 [params]
   favicon = ""
   description = "The last theme you'll ever need. Maybe."
@@ -17,6 +19,7 @@ theme = "ananke"
   featured_image = "/images/pandb-bg.jpg"
   recent_posts_number = 2
   usepostimgfolder = true
+
 
   # Nav links
   
