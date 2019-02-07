@@ -2,11 +2,10 @@
 title: "Demos"
 date: 2019-02-06T01:07:31-06:00
 draft: true
+featured_image: "/images/recordings.jpg"
 ---
 
-### Demos:
-
-These were recorded in our basement—one and done. While not CD ready, they are a chance to get a sampling of a few of things we play.
+### These were recorded in our basement—one and done. While not CD ready, they are a chance to get a sampling of a few of things we play.
 
 [Elvis Presley Blues (Gillian Welch / Grace Potter)](https://soundcloud.com/panmanphil/elvis-presley-blues)
 

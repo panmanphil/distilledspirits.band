@@ -2,7 +2,7 @@
 title = "Schedule"
 date = 2019-02-06T01:07:31-06:00
 draft = true
-featured_image = "/images/jackie_allen.jpg"
+featured_image = "/images/live-music.jpg"
 +++
 ### Here is everything going on for Distilled Spirits, Philip, and our house concerts
 

@@ -3,6 +3,7 @@
 title: "Song List"
 date: 2019-02-04T16:07:31-06:00
 draft: true
+featured_image: "/images/songs.jpg"
 ---
 Not Dark Yet - Dylan
 
