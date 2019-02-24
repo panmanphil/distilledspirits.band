@@ -19,6 +19,10 @@ summaryLength = 5
   featured_image = "/images/pandb-bg.jpg"
   recent_posts_number = 2
   usepostimgfolder = true
+  read_more_copy = "..."
+
+ 
+  mainSections = ["front-pages"]
 
 
   # Nav links
@@ -31,12 +35,12 @@ summaryLength = 5
 
   [[menu.main]]
   name = "Schedule"
-  url = "/pages/schedule"
+  url = "/front-pages/schedule"
   weight = 3
 
   [[menu.main]]
   name = "Demos"
-  url = "/pages/demos"
+  url = "/front-pages/demos"
   weight = 3
 
   [[menu.main]]
