@@ -17,5 +17,6 @@ Barbara Richmond does most of the singing. She starting singing professionally w
 
 Guitarist Philip Nelson also started playing professionally in high school but after an early infatuation with Jimmy Page, was drawn especially to jazz with a heavy side dose of horn bands, funk, R&B and blues. He has been performing in both jazz settings and funky electric band settings for decades now. Musically, he doesn't like to get pinned down, and likes a night to jump from a rich repertoire that incorporates many of the wonderful things you can actually do on a guitar. In Distilled Spirits this is really put to the test: playing all the instrumental parts, a bass drum stomp box, a looper and singing.
 
+![Philip and Barbara](/images/philip-barbara.jpg "Krakow Christmas")
 
 Our song list is pulled from Barbara's playlists that are eclectic and represent what we like when we listen to music. These days, more and more people are like us, not wanting to listen to just one kind of thing when the world is serving up this delicious menu of choices from all over the world and just a click away. Think having your favorite starter, main course, dessert, after dinner drink and how we are OK with the whole thing. Don't starve yourself man!
