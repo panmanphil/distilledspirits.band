@@ -1,8 +1,8 @@
 ---
 title: "Demos"
 date: 2019-02-06T01:07:31-06:00
-draft: true
-featured_image: "/images/zoom-interface.jpg"
+draft: false
+featured_image: "/images/zoom-interface-1500.jpg"
 ---
 
 ### These were recorded in our basement—one and done. While not CD ready, they are a chance to get a sampling of a few of things we play.

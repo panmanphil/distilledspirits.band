@@ -3,7 +3,6 @@ title =  "About"
 date = 2019-02-04T18:46:00-06:00
 tags = []
 featured_image = "/images/pandb-bg.jpg"
-image = "/images/pandb-bg.jpg"
 description = ""
 +++
 

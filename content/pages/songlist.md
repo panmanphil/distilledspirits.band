@@ -1,13 +1,13 @@
++++
+title = "Song List"
+date = 2019-02-04T16:07:31-06:00
+draft = false
+featured_image = "/images/songs-1500.jpg"
++++
 
----
-title: "Song List"
-date: 2019-02-04T16:07:31-06:00
-draft: true
-featured_image: "/images/songs.jpg"
----
 Not Dark Yet - Dylan
 
-A Case of You - Joni
+A Case of You - Joni Mitchel
 
 (selected tunes)
 Make you want to hug someone

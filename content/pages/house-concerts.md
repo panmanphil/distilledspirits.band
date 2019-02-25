@@ -15,10 +15,10 @@ The great thing about house concerts is how intimate they are. You are right the
 Enjoy some more snapshots from our concerts
 ![The Novelists](/images/thenovelists2.jpeg "The Novelists")
 
-![Shawn and Jordyn](/images/IMGP9330.jpg "Flagship Romance")
+![Shawn and Jordyn](/images/flagship-romance-1500.jpg "Flagship Romance")
 
-![Cameron and Ryan](/images/IMG_3981.jpg "Ryanhood")
+![Cameron and Ryan](/images/ryanhood-and-us-1500.jpg "Ryanhood")
 
-![Shawn and Jordyn](/images/IMGP9464.jpg "Outside!")
+![Shawn and Jordyn](/images/shawn-jordyn-outside.jpg "Outside!")
 
 ![Jackie Allen](/images/jackie_allen.jpg "Jackie Allen")
