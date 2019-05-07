@@ -7,10 +7,6 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 ### Here is everything going on for Distilled Spirits, Philip, and our house concerts
 
 
-3/16/2019 Distilled Spirits @ Chefusion
-
-4/20/2019 Distilled Spirits @ Chefusion
-
 5/2/2019 Heidi Burson @ [Live at Philip and Barbara’s House](/pages/house-concerts/heidi-burson-band)
 
 5/18/2019 Distilled Spirits @ Chefusion
@@ -18,16 +14,23 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 6/5/2019 Sundae & Mr. Goessl @ [Live at Philip and Barbara’s House](/pages/house-concerts/sundae-mr-goessl)
 
 
-<!--more--> 
-6/15/2019 Distilled Spirits @ Chefusion
+6/15/2019 Distilled Spirits @ Parallel 44 Winery (Keewanee)
 
 6/22/2019 Distilled Spirits @ Parallel 44 Winery (Keewanee)
+
+6/26/2019 Jazz Orgy featuring Philip Nelson @ Beckets (Oshkosh)
+
+6/28/2019 Distilled Spirits @ Chefusion
+
+
+<!--more--> 
+
 
 7/11/2019 Nicholas Raymond @ [Live at Philip and Barbara’s House](/pages/house-concerts/nicholas-raymond)
 
 8/14/2019 Flagship Romance @ [Live at Philip and Barbara’s House](/pages/house-concerts/flagship-romance)
 
-September 2019 TBD Daniel Champagne @ [Live at Philip and Barbara’s House](/pages/house-concerts/daniel-champagne)
+
 
 ---
 ### Past Dates
@@ -109,4 +112,12 @@ September 2019 TBD Daniel Champagne @ [Live at Philip and Barbara’s House](/pa
 1/11/2019 Distilled Spirits @ Chefusion 
 
 2/15/2019 Distilled Spirits @ private party
+
+3/16/2019 Distilled Spirits @ Chefusion
+
+4/20/2019 Distilled Spirits @ Chefusion
+
+4/25/2019 Blue Opus Big Band @ Blue Opus (Philip)
+
+4/28/2019 Private Party (Philip)
 
