@@ -22,13 +22,24 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 
 6/28/2019 Distilled Spirits @ Chefusion
 
+7/11/2019 Nicholas Raymond @ [Live at Philip and Barbara’s House](/pages/house-concerts/nicholas-raymond)
+
 
 <!--more--> 
 
 
-7/11/2019 Nicholas Raymond @ [Live at Philip and Barbara’s House](/pages/house-concerts/nicholas-raymond)
+
+7/26/2019 Big Mouth @ Nights on the Fox (Philip)
 
 8/14/2019 Flagship Romance @ [Live at Philip and Barbara’s House](/pages/house-concerts/flagship-romance)
+
+9/28/2019 Distilled Spirits @ Chefusion
+
+10/12/2019 Distilled Spirits @ Chefusion
+
+11/23/2019 Distilled Spirits @ Chefusion
+
+12/21/2019 Distilled Spirits @ Chefusion
 
 
 

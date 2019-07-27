@@ -4,6 +4,8 @@ theme = "ananke"
 
 summaryLength = 5
 
+googleAnalytics = "UA-99765278-1"
+
 [params]
   favicon = ""
   description = "All you need to know about performances by Philip, Barbara and Distilled Spirits"
