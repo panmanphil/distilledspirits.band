@@ -10,20 +10,24 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 
 7/2/2022 Distilled Spirits @ Parallel 44 Winery (Keewanee)
 
-7/5/20229 Woody Mankowski @ [Live at Philip and Barbara’s House](/pages/house-concerts/woody-mankowski)
+7/5/2022 Woody Mankowski @ [Live at Philip and Barbara’s House](/pages/house-concerts/woody-mankowski)
 
-8/24/2022 Ryanhood @ [Live at Philip and Barbara’s House](#)
+7/16/2022 Fox Vally Symphony Orchestra (Philip) @ Timber Rattlers Stadium (Appleton)
+
+8/24/2022 Ryanhood @ [Live at Philip and Barbara’s House](/pages/house-concerts/ryanhood)
 
 
 8/26/2022 Distilled Spirits @ Door 44 Winery (Sturgeon Bay)
 
-9/21/2022 Flagship Romance @ [Live at Philip and Barbara’s House](#)
+8/27/2022 Chris Kuborn (Philip) @ Artstreet (Ashwaubomay Park, De Pere)
 
+9/1/2022 Green Bay Jazz Orchestra (Philip) @ Tarlton Theatre (Green Bay)
+
+9/21/2022 CANCELLED! Flagship Romance @ [Live at Philip and Barbara’s House](#)
 
 9/24/2022 Distilled Spirits @ Door 44 Winery (Sturgeon Bay)
 
-6/22/2019 Distilled Spirits @ Parallel 44 Winery (Keewanee)
-
+10/22/2022 Distilled Spirits @ Chefusion (Green Bay)
 
 ---
 ### Past Dates
