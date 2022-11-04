@@ -6,6 +6,21 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 +++
 ### Here is everything going on for Distilled Spirits, Philip, and our house concerts
 
+
+
+10/22/2022 Distilled Spirits @ Chefusion (Green Bay)
+
+11/5/2022 Distilled Spirits @ Door 44 Winery, 1-4 (Sturgeon Bay)
+
+11/12/2022 Distilled Spirits @ Door 44 Winery 1-4 (Sturgeon Bay)
+
+11/25/2022 Distilled Spirits @ Parallel 44 Winery 1-4 (Kewaunnee)
+
+1/14/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
+---
+### Past Dates
+
 6/4/2022 Distilled Spirits @ Parallel 44 Winery (Keewanee) 2-6
 
 7/2/2022 Distilled Spirits @ Parallel 44 Winery (Keewanee)
@@ -26,12 +41,5 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 9/21/2022 CANCELLED! Flagship Romance @ [Live at Philip and Barbara’s House](#)
 
 9/24/2022 Distilled Spirits @ Door 44 Winery (Sturgeon Bay)
-
-10/22/2022 Distilled Spirits @ Chefusion (Green Bay)
-
----
-### Past Dates
-
-
 
 
