@@ -11,13 +11,19 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 
 1/28/2023 Jamie Fletcher @ Private party (Philip)
 
-2/4/2023 Distilled Spirits @ Door 44 Winery (Sturgeon Bay) 2-4
+2/4/2023 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
 3/4/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
 4/8/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
+4/29/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
+
 5/13/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
+6/24/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
+
+9/1/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
 
 ---
 ### Past Dates
