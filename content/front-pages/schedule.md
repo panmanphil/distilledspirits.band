@@ -15,11 +15,15 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 
 3/4/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
+3/25/2023 Distilled Spirits @ Door 44 Winery 2-5 (Surgeon Bay)
+
 4/8/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
 4/29/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
 
 5/13/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
+6/17/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
 6/24/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
 
