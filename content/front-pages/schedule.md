@@ -8,17 +8,18 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 
 
 
-9/1/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
-
-9/16/2023 Frances Luke Accord @ Live at Philip and Barbara's House
-
-9/30/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+10/1/2023 Big Mouth and the Power Tool Horns @ Private party (Green Bay)
 
 10/21/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
 11/11/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
+11/18/2023 Distilled Spirits @ Parallel 44 Winery 2-5 (Kewaunee)
+
+11/25/2023 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+
 12/9/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
 
 ---
 ### Past Dates
@@ -68,4 +69,12 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 7/22/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
 8/10/2023 (Cancelled) Flagship Romance @ Live at Philip and Barbara's house
+
+9/1/2023 Distilled Spirits @ Door 44 Winery  2-5 (Sturgeon Bay)
+
+9/16/2023 Frances Luke Accord @ Live at Philip and Barbara's House
+
+9/24/2023 Big Mouth and the Power Tool Horns @ Private party (Sturgeon Bay)
+
+9/30/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
