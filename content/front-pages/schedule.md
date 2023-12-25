@@ -8,17 +8,11 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 
 
 
-10/1/2023 Big Mouth and the Power Tool Horns @ Private party (Green Bay)
+12/8/2023 Big Mouth and the Power Tool Horns @ Private party (Green Bay)
 
-10/21/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+12/9/2023 Distilled Spirits (w/Jamie Fletcher) @ Chefusion 7-10 (Green Bay)
 
-11/11/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
-
-11/18/2023 Distilled Spirits @ Parallel 44 Winery 2-5 (Kewaunee)
-
-11/25/2023 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
-
-12/9/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+3/9/2024 Distilled Spirits @ Chefusion 7-10 (Green Bay)
 
 
 ---
@@ -77,4 +71,15 @@ featured_image = "/images/action-asphalt-back-light-1500-1000.jpg"
 9/24/2023 Big Mouth and the Power Tool Horns @ Private party (Sturgeon Bay)
 
 9/30/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
+10/1/2023 Big Mouth and the Power Tool Horns @ Private party (Green Bay)
+
+10/21/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
+11/11/2023 Distilled Spirits @ Chefusion 7-10 (Green Bay)
+
+11/18/2023 Distilled Spirits @ Parallel 44 Winery 2-5 (Kewaunee)
+
+11/25/2023 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+
 
