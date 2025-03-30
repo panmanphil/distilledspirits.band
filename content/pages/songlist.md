@@ -4,77 +4,191 @@ date = 2019-02-04T16:07:31-06:00
 draft = false
 featured_image = "/images/songs-1500.jpg"
 +++
+{{< columns >}} <!-- begin columns block -->
+### selected
+Shine–Collective Soul
 
-Not Dark Yet - Dylan
+Better Way-Ben Harper
 
-A Case of You - Joni Mitchel
+Queen of California	- John Mayer
 
-(selected tunes)
-Make you want to hug someone
-When a Heart Breaks - Ben Rector
+Dancing Shoes-Green River Ordinance
 
-I Want You Back - MJ / Civil Wars
+Love You Forever-Dawn & Hawkes
 
-In Your Eyes - Peter Gabriel
+Trouble-Ray LaMontagne
 
-Blackbird - Beatles
+I Won’t Back Down-Tom Petty
 
-Tree To Grow - The Lone Bellow
-<!--more--> 
-Make you think
-Snow Song - Philip Nelson
+Dancing in the Dark	-Bruce Springsteen
 
-Fire Water - Buster Williams
+Papa Come Quick-Bonnie Raitt
 
-Work Song - Hozier
+Helpless–Neil Young
 
-How You Loved Me On Mars - Josh Nelson
+Homesick-Train
 
-Let It Go - James Bay
+Rikki Don’t Lose That Number-Steely Dan
 
-Nature Boy - Nat King Cole
+Baker St.-Gerry Rafferty
 
-Another Free Woman - Blackie and the Rodeo Kings
+Feathers Not A Bird-Roseanne Cash	
 
-A House Is Not a Home - Luther Vandross
+Angel From Montgomery--John Prine
 
-Make you sway
-Elvis Presley Blues - Gillian Welch
+Hear Me-Tedeschi Trucks
 
-A Feather’s Not a Bird - Roseanne Cash
+Good Times-Edie Brickell
 
-Colorado River Song - Rene Marie
+Sweet Emotion-Aerosmith
 
-Don't Fade On Me - Tom Petty
+Morning-Sarah Jarosz
 
-Boom Boom - John Lee Hooker
+Black Bird-Beatles
 
-Into the Mystic - Van Morrison
+Dear Prudence-Beatles
 
-Dear Prudence - Beatles
+Get Back-Beatles
 
-I’m Lazy That’s All - Pearl Bailey
+Come Together-Beatles
 
-Into They Mystic - Van Morrison
+In Your Eyes-Peter Gabriel
 
-Angel From Montgomery - John Prine
+Boom Boom-John Lee Hooker
 
-Make you shake it
-Sweet Emotion - Aerosmith (but done as funk)
+Widowmaker	-Donovan Woods
 
-Spill the Wine - War
+Don’t Fade On Me-Tom Petty
 
-Skank - John Scofield
+Let It Go-James Bay
 
-Come Together - Beatles
+When A Heart Breaks-Ben Rector
 
-Low Rider - War
+Traveling Star-James Taylor
 
-Make you boogie
-Lola - the Kinks
+Into The Mystic-Van Morrison
 
-Tank - Holly Golightly
+Women Be Wise–Bonnie Raitt
 
-Stuck in the Middle with You - Stealers Wheel
+Diamond in the Rough-Shawn Colvin
 
-Jackson Hole - Kasey Chambers
+I Can’t Let Go-Robert Plant/Alison Krauss
+
+I Used to Be a King	- Graham Nash
+
+Drinkin’-Holly Williams
+
+Cinnamon Road-Shawn Colvin
+
+Broken Coastline-Down Like Silver
+
+Build Me Up From Bones-Sarah Jarosz
+
+
+
+
+
+<---> <!-- magic separator, between columns -->
+
+### tunes
+Bible Song-Lori McKenna
+
+On Your Way Down-Little Feat
+
+Don’t Let It Bring You Down
+
+Scarlet Town-Gillian Welch
+
+Waiting In Vain-Annie Lennox/Bob Marley
+
+Come And Go Blues-Allman Bros.
+
+Elvis Presley Blues -Gillian Welch  
+
+Anyhow-Tedeschi Trucks
+
+Devil’s Story-Edie Brickell/Gadabouts
+
+You Can Bring Me Flowers-Ray LaMontagne
+
+Midnight In Harlem-Tedeschi Trucks
+
+Slow Burn-Kasey Musgraves
+
+Crazy=Patsy Cline
+
+Nature Boy-Nat King Cole	
+
+Can’t Find My Way Home-Blind Faith/Eric Clapton
+
+Strong Enough-Sheryl Crow
+
+Landslide-Fleetwood Mac
+
+Runnin’--Beyonce
+
+See-Line Woman-Nina Simone
+
+Your Water-Parker Milsap/Sarah Jarosz 
+
+House of Mercy-Sarah Jarosz
+
+Sleeping on the Blacktop-Colter Wall
+
+Everything to Hide-Sarah Jarosz
+
+Don’t Take Your Love From Me-Catherine Russel		
+
+Run Away-Sarah Jarosz
+
+Hard Place-H.E.R.
+
+I Just Want to Listen to the Band Play-Freddie & Francine
+
+Stand To Lose-Freddie & Francine
+
+Cool Me Down-Kieran Kane
+
+Deep River Blues-Doc Watson
+
+Jackson Hole-Kasey Chambers
+
+Keep Your Lamp…-Tedeschi Trucks
+
+Canary-Joy Williams
+
+Soul of a Man-Colin James
+
+Walking After Midnight-Patsy Cline
+
+Cold Air-Kieran Kane
+
+Pretty Things-Tony Lucca
+
+Angela-Lumineers
+
+Fix You-Cold Play
+
+Morning–Sarah Jarosz
+
+These Four Walls-Shawn Colvin
+
+Carolina-Lukas Nelson
+
+Young Man-James River Revival
+
+Until You-AHI
+
+Fill Me Up-Shawn Colvin
+
+Speed Trap Town-Jason Isbell
+
+Howl-Sam Burchfield
+
+Hey Good Lookin’=Hank Williams
+
+
+<---> <!-- magic separator, between columns -->
+
+{{< /columns >}}
+
