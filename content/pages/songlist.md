@@ -84,6 +84,30 @@ Broken Coastline-Down Like Silver
 
 Build Me Up From Bones-Sarah Jarosz
 
+Beyond--Leon Bridges
+
+July--Noah Cyrus/Leon Bridges
+
+Lawman--Gillian Welch/David Rawlings
+
+Speed Trap Town--Jason Isbell
+
+Different Days--Jason Isbell
+
+Mary Jane's Last Dance--Tom Petty
+
+Going to California--Led Zeppelin
+
+Not Dark Yet--Bob Dylan
+
+That's All I Know About Arkansas--Rosanne Cash/John Leventhal
+
+Northern Attitude--Noah Kahan
+
+She Waits For Me To Come Down--Donovan Woods/Katie Pruitt
+
+Women Be Wise--Bonnie Raitt
+
 
 
 

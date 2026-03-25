@@ -1,45 +1,33 @@
 +++
 title = "Schedule"
-date = 2024-02-08T01:07:31-06:00
+date = 2025-08-24T01:07:31-06:00
 draft = false
 featured_image = "/images/philip-barbara-4-wide.png"
 +++
 ### Here is everything going on for Distilled Spirits, Philip, and our house concerts
 
-5/2/2025 Distilled Spirits @ The Porch 8-11 (De Pere)
 
-5/31/2024 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+5/22/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
-6/21/2024 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+6/25/2026 Mama Ginger and The Hot Shots @ Live at Philip and Barbara’s House
 
-6/26/2024 Mama Ginger and The Hot Shots @ Live at Philip and Barbara's House
+7/22/2026 Rachael Davis @ Live at Philip and Barbara's House
 
-7/4/2024 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
-
-7/19 2024 Kyshona @ Live at Philip and Barbara's House
-
-8/14/2024 Ben Gage @ Live at Philip and Barbara's House
-
-8/30/2024 Distilled Spirits @ Door 44 Winery (Sturgeon Bay)
-
-9/18/2024 Ryanhood @ Live at Philip and Barabara's house
-
-10/24/2024 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
-
+8/15/2026 Jimmy "Daddy" Davis @ Live at Philip and Barbara's House (no relation to Rachael!)
 
 ---
 ### Past Dates
 
-11/29/2024 Distilled Spirits @ Parallel 44 Winery 1-4 (Keewaunee)
 
-12/3/2024 Harmon Boyz @ Cooper State Brewery 6-9 (Philip)
+11/24/2025 Water City Jazz Orchestra, Guitar Justice @ Fletches Tap Room 8-10 (Oshkosh, Philip)
 
-12/7/2024 Private Party @ Lyric Room (Philip)
+12/2/2025 Harmon Boyz jazz jam session @ Copper State Brewing Company 6-9 (Philip)
 
-12/18/2024 Private Party @ UWGB (Philip)
+12/5/2025 Big Mouth and the Power Tool Horns @ Osthoff 6-10 (Elkhart Lake, Philip)
 
-12/27/2024 Private Party with Steve Johnson (Philip)
+12/13/2025 Distilled Spirits @ The Porch 8-10 (De Pere)
 
-12/28/2024 Distilled Spirits @ Parallel 44 Winery 1-4 (Kewaunee)
+3/7/2026 Distilled Spirits @ Door 44 Winery 1-4 (Sturgeon Bay)
 
-1/18/2025 Distilled Spirits @ The Porch 8-11 (De Pere)
+
+
