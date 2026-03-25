@@ -1,6 +1,6 @@
 +++
 title = "Schedule"
-date = 2025-08-24T01:07:31-06:00
+date = 2026-03-24T01:07:31-06:00
 draft = false
 featured_image = "/images/philip-barbara-4-wide.png"
 +++
