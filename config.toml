@@ -4,8 +4,6 @@ theme = "ananke"
 
 summaryLength = 5
 
-googleAnalytics = "UA-99765278-1"
-
 [params]
   favicon = ""
   description = "All you need to know about performances by Philip, Barbara and Distilled Spirits"
@@ -16,10 +14,9 @@ googleAnalytics = "UA-99765278-1"
   github = ""
   gitlab = ""
   linkedin = ""
-  googleAnalytics = "UA-99765278-1"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/pandb-bg.jpg"
+  featured_image = "images/pandb-bg.jpg"
   recent_posts_number = 2
   usepostimgfolder = true
   read_more_copy = "..."

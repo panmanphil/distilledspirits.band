@@ -1,6 +1,6 @@
 ---
 title: "Demos"
-date: 2019-02-06T01:07:31-06:00
+date: 2025-10-02T01:07:31-06:00
 draft: false
 featured_image: "/images/zoom-interface-1500.jpg"
 ---

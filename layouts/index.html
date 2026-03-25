@@ -1,3 +1,16 @@
+{{ define "header" }}
+
+  {{ if .Site.Params.featured_image }}
+    <section class="cover bg-top" style="background-image: url('{{ .Site.Params.featured_image | relURL }}');">
+      <div class="bg-black-60">
+        {{ partial "site-navigation.html" . }}
+        <div class="tc-l pv7 ph3 ph4-ns">
+          <h1 class="f2 f1-l fw2 white-90 mv0">{{ .Site.Title }}</h1>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
 {{ define "main" }}
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
@@ -26,7 +39,7 @@
         {{/* Range through the first $n_posts items of the section */}}
         {{ range (first $n_posts $section) }}
           <div class="relative w-100 mb4">
-            {{ partial "summary-with-image.html" . }}
+            {{ .Render "summary-with-image" }}
           </div>
         {{ end }}
       </section>
