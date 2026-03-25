@@ -7,22 +7,32 @@ featured_image: "/images/zoom-interface-1500.jpg"
 
 ### These were recorded in our basement—one and done. While not CD ready, they are a chance to get a sampling of a few of things we play.
 
-[Elvis Presley Blues (Gillian Welch / Grace Potter)](https://soundcloud.com/panmanphil/elvis-presley-blues)
+If you don't want to sign in to SoundCloud, just click the little close box, X, on the upper right corner of your screen
 
-[Dear Prudence (Beatles)](https://soundcloud.com/panmanphil/dear-prudence)
+[Crazy (Patsy Cline)](https://soundcloud.com/panmanphil/crazy?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=1b1894b415db4f3cacfc708e853d27de)
+
+[You Can Bring Me Flowers(Ray LaMontange)](https://soundcloud.com/panmanphil/you-can-bring-me-flowers?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=4e4ec4414605437baacbb05185dad957)
+
+[Sea Line Woman (Nina Simone)](https://soundcloud.com/panmanphil/sea-line-woman?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=df2cfd34fc0e4ddfafe3f558e8c9907f)
+
+[Helpless (Niel Young)](https://soundcloud.com/panmanphil/helpless?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=3d3a2cc5dec94a93b09085c1fbdc9adc)
+
+[Trouble (Ray LaMontange)](https://soundcloud.com/panmanphil/trouble)
+
+[Diamond in the Rough (Shawn Colvin)](https://soundcloud.com/panmanphil/diamondintherough)
+
+[Drinkin' (Holly Williams)](https://soundcloud.com/panmanphil/drinkin)
+
+[Midnight in Harlem (Tedeschi Trucks Band)](https://soundcloud.com/panmanphil/midnight-in-harlem)
+
+[Everything to Hide (Sara Jerosz)](https://soundcloud.com/panmanphil/everything-to-hide?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=581414e2ac0c44a39add683b3468ac79)
+
+[Landslide (Fleetwood Mac)](https://soundcloud.com/panmanphil/landslide?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=2ac95267df884f92a5b0b61d1b8d5be7)
+
+[Elvis Presley Blues (Gillian Welch / Grace Potter)](https://soundcloud.com/panmanphil/elvis-presley-blues)
 
 [Colorado River Song (René Marie)](https://soundcloud.com/panmanphil/colorado-river-song)
 
-[I Want you Back (Michael Jackson / Civil Wars)](https://soundcloud.com/panmanphil/i-want-you-back/s-Pm1ee)
-
 [A Feather's Not a Bird (Roseanne Cash)](https://soundcloud.com/panmanphil/a-feathers-not-a-bird/s-xhBHg)
 
-[All About That Bass (Meghan Trainor)](https://soundcloud.com/panmanphil/all-about-that-bass/s-gBO5H)
-
-[Rattlin' Bones (Kasey Chambers)](https://soundcloud.com/panmanphil/rattlin-bones/s-mZh3p)
-
 [The Best is Yet To Come (Rosemary Clooney / Cy Coleman)](https://soundcloud.com/panmanphil/the-best-is-yet-to-come/s-L1tre)
-
-[Tank(Holly Golightly)](https://soundcloud.com/panmanphil/tank/s-u4n41)
-
-[Women Be Wise (Sippie Wallace)](https://soundcloud.com/panmanphil/women-be-wise/s-orhIY)
