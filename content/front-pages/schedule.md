@@ -9,6 +9,10 @@ featured_image = "/images/philip-barbara-4-wide.png"
 
 5/22/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
+6/13/2026 Big Mouth and the Power Tool Horns @ Bellin Run Celebration 9-? (Philip)
+
+6/16/2026 Big Mouth and the Power Tool Horns @ Astor Park, evening (Philip)
+
 6/25/2026 Mama Ginger and The Hot Shots @ Live at Philip and Barbara’s House
 
 7/22/2026 Rachael Davis @ Live at Philip and Barbara's House
