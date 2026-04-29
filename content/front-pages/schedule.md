@@ -17,7 +17,17 @@ featured_image = "/images/philip-barbara-4-wide.png"
 
 7/22/2026 Rachael Davis @ Live at Philip and Barbara's House
 
+7/31/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+
 8/15/2026 Jimmy "Daddy" Davis @ Live at Philip and Barbara's House (no relation to Rachael!)
+
+8/19/2026 Distilled Spirits @ Gaylord MN Summer Concerts
+
+8/28/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+
+9/18/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
+
+10/9/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
 ---
 ### Past Dates
