@@ -5,7 +5,7 @@ draft = false
 featured_image = "/images/philip-barbara-4-wide.png"
 +++
 ### Here is everything going on for Distilled Spirits, Philip, and our house concerts
-
+5/7/2026 Paul Sucherman Quartet @ Passenger Lounge 7-9 (Fond Du Lac)
 
 5/22/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
@@ -19,9 +19,11 @@ featured_image = "/images/philip-barbara-4-wide.png"
 
 7/31/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
+8/2/2026 Philip Nelson group @ The Alley 6-8 (De Pere)
+
 8/15/2026 Jimmy "Daddy" Davis @ Live at Philip and Barbara's House (no relation to Rachael!)
 
-8/19/2026 Distilled Spirits @ Gaylord MN Summer Concerts
+8/19/2026 Distilled Spirits @ Gaylord Music Under The Oaks 5-7 (Gaylord MN)
 
 8/28/2026 Distilled Spirits @ Door 44 Winery 2-5 (Sturgeon Bay)
 
